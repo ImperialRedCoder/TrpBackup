@@ -2,6 +2,7 @@
 In order to get the backup started, clone this respository, then do:
 
 `bundle install`
+
 `ruby trp.rb`
 
 ## Note
